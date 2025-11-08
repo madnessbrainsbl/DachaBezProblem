@@ -1,0 +1,8 @@
+# Backend server files (mounted via sshfs)
+remote-backend/
+
+# MCP server files  
+mcp-server/
+
+# Other non-Flutter directories
+Runner/ 

@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Простой термометр без внешних теней и лишнего viewBox -->
+  <path d="M9 3.5C9 2.67157 8.32843 2 7.5 2C6.67157 2 6 2.67157 6 3.5V9.085C5.4022 9.47496 5 10.1661 5 10.95C5 12.0831 5.8669 13 7 13C8.1331 13 9 12.0831 9 10.95C9 10.1661 8.5978 9.47496 8 9.085V3.5Z" fill="url(#paint0_linear)"/>
+  <rect x="7" y="6.5" width="1" height="3.5" rx="0.5" fill="white" fill-opacity="0.6"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="7" y1="2" x2="7" y2="13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78B065"/>
+      <stop offset="1" stop-color="#388D79"/>
+    </linearGradient>
+  </defs>
+</svg>
